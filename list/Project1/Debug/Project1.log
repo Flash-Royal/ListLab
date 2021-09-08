@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\flash\source\repos\list\Project1\Source.cpp(23,6): error C2652: "List": недопустимый конструктор копий, первый параметр не должен быть "List"
+C:\Users\flash\source\repos\list\Project1\Source.cpp(11): message : см. объявление "List"
+C:\Users\flash\source\repos\list\Project1\Source.cpp(23,6): error C2333: List::List: ошибка в объявлении функции; пропуск основного текста функции
+C:\Users\flash\source\repos\list\Project1\Source.cpp(168,12): error C2440: инициализация: невозможно преобразовать "List" в "List"
+C:\Users\flash\source\repos\list\Project1\Source.cpp(168,12): message : Создать class "List" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
